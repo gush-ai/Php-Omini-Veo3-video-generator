@@ -78,3 +78,6 @@ The backend converts the data URL into the Gemini API's inline image object.
 Do not put the Google API key in frontend JavaScript. Keep it only in `.env` on the server.
 
 The included provider adapter intentionally isolates Google-specific code so another video provider can be added later without changing the public GVid API.
+
+
+Developed by Olayiwola Emmanuel 
