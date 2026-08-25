@@ -1,0 +1,27 @@
+{
+  "name": "gvid-php-veo-gateway",
+  "display_name": "GVid-PHP-Veo-Gateway",
+  "type": "static-site",
+  "version": "1.0.0",
+  "description": "Imported Archive Project",
+  "author": "Developer",
+  "license": "MIT",
+  "generated_by": "Gush AI Codex V10.5",
+  "generated_at": "2026-08-25T12:12:02.484Z",
+  "files": [
+    "README.md",
+    "public/index.php",
+    "src/bootstrap.php",
+    "src/Config.php",
+    "src/Response.php",
+    "src/Request.php",
+    "src/Auth.php",
+    "src/Router.php",
+    "src/JobStore.php",
+    "src/Providers/VideoProvider.php",
+    "src/Providers/GoogleVeoProvider.php",
+    "src/Controllers/VideoController.php",
+    "gush-project.json",
+    ".gitignore"
+  ]
+}
